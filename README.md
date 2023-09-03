@@ -1,1 +1,1 @@
-# Prediction-of-Fraud-Trabsactions
+# Prediction-of-Fraud-Transactions
